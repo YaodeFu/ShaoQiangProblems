@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script" async></script>
+
 # 少强提纲
 
 <img src="./imgs/Octocat.gif" height="64">
@@ -284,5 +286,3 @@ P161 习题 10-3：
 
 P170 习题 10-4: 
 1.求球面 \(x^2 + y^2 + z^2 = a^2\) 含在圆柱面 \(x^2 + y^2 = ax\) 内部的那部分面积。
-
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
