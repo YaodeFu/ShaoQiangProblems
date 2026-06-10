@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script" async></script>
-
 # 少强提纲
 
 <img src="./imgs/Octocat.gif" height="64">
